@@ -3,7 +3,7 @@ Analysis / Machine Learning Projects Portfolio - Owner
 
 ## 1. Allegro_data_extraction_of_most_popular_cars
 
-Developed: 05/2019 
+Developed: 05/2020 
 
 Python web scraping from Allegro (real time) to csv file.
 
