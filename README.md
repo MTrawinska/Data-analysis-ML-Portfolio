@@ -3,6 +3,8 @@ Analysis / Machine Learning Projects Portfolio - Owner
 
 ## 1. Allegro_data_extraction_of_most_popular_cars
 
+Developed code: 05/2019 
+
 Python web scraping from Allegro (real time) to csv file.
 
 Requirements: Jupiter notebook(Anaconda) and libraries: bs4, urllib, pandas, numpy, re, json, pytz
@@ -11,6 +13,8 @@ Requirements: Jupiter notebook(Anaconda) and libraries: bs4, urllib, pandas, num
 
 
 ## 2. Titanic-analysis
+
+Developed: 11/2019 
 
 Classical data analysis based on Kaggle Titanic challange.
 [Titanic: Machine Learning from Disaster / Predict survival on the Titanic](https://www.kaggle.com/c/titanic)
