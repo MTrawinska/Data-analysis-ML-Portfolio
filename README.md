@@ -22,3 +22,13 @@ Classical data analysis based on Kaggle Titanic challange.
 Requirements: Jupiter notebook(Anaconda) and libraries: pandas, numpy, matplotlib, seaborn
 
 [More about](https://github.com/MTrawinska/Titanic-analysis)
+
+## Veterinary-database- analysis
+
+Developed: 07/2020
+
+Data analysis and database management. 
+
+Requirements: postgreSQL, Linux terminal, pgAdmin III
+
+[More about](https://github.com/MTrawinska/Veterinary-application)
