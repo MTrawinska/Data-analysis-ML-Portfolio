@@ -23,7 +23,7 @@ Requirements: Jupiter notebook(Anaconda) and libraries: pandas, numpy, matplotli
 
 [More about](https://github.com/MTrawinska/Titanic-analysis)
 
-## Veterinary-database- analysis
+## 3. Veterinary-database- analysis
 
 Developed: 07/2020
 
